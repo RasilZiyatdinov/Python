@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "task": "погулять с мопсом",
+      "category": "домашнее",
+      "done": false
+    },
+    {
+      "task": "сделать дз",
+      "category": "учеба",
+      "done": false
+    },
+    {
+      "task": "помыть пол",
+      "category": "домашнее",
+      "done": true
+    }
+  ]
+}
